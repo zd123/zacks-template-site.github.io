@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![image of air-traffic](images/air-traffic.png)
+![image of air-traffic](https://raw.githubusercontent.com/zd123/zacks-template-site.github.io/main/images/air-traffic.jpg)
 You can use the [editor on GitHub](https://github.com/zd123/zacks-template-site.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
