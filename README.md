@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
 ![image of air-traffic](https://raw.githubusercontent.com/zd123/zacks-template-site.github.io/main/images/air-traffic.jpg)
 You can use the [editor on GitHub](https://github.com/zd123/zacks-template-site.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
